@@ -28,7 +28,7 @@ export default function Navbar() {
             className="text-white h-4 w-4 ml-[22px]"
           />
         </h6>
-        <h6 className="font-semibold ml-[3px] text-headerFont">
+        <h6 className="font-semibold ml-[3px] text-headerFont text-white">
           (225) 555-0118
         </h6>
         <h6>
@@ -38,13 +38,13 @@ export default function Navbar() {
             className="text-white h-4 w-4 ml-[22px]"
           />
         </h6>
-        <h6 className="font-semibold ml-[3px] text-headerFont">
+        <h6 className="font-semibold ml-[3px] text-headerFont text-white">
           michelle.rivera@example.com
         </h6>
-        <h6 className="font-bold ml-auto mr-auto text-headerFont">
+        <h6 className="font-bold ml-auto mr-auto text-headerFont text-white">
           Follow Us and get a chance to win 80% off
         </h6>
-        <h6 className=" font-bold text-headerFont">Follow us : </h6>
+        <h6 className=" font-bold text-headerFont text-white">Follow us : </h6>
         <h6 className="flex gap-[8px] ml-[8px] mr-[22px]">
           {/* Instagram Icon */}
           <FontAwesomeIcon icon={faInstagram} className="text-white h-4 w-4" />

@@ -12,7 +12,7 @@ export default function Hero() {
         />
       </div>
       {/* now we are structuring and designing the editor's pick */}
-      <div className="w-[1440px] h-[770px] bg-white h-screen ">
+      <div className="w-[1440px] h-[770px] bg-white ">
         <div className="grid place-items-center gap-[48px] w-[1050px] h-[770px] ml-[195px] pt-[80px] pb-[80px]">
           <div className="grid place-items-center gap-[10px] w-[607px] h-[62px] ">
             <h3 className="w-[181px] h-[32px] text-[24px] font-bold text-headerBlue">
